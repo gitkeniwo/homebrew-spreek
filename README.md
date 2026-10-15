@@ -1,3 +1,5 @@
+<img width="256" height="256" alt="spreek-snavel-left-arcs-blauw" src="https://github.com/user-attachments/assets/5c46b53b-13d7-423f-88c2-ac8ccaaaa0db" />
+
 # Spreek
 
 Homebrew tap and releases for **Spreek**, a macOS menu-bar select-to-speak app for language learners: select text in any app, press ⌥S, and Spreek detects the language, reads it aloud with a neural voice, and keeps a history with favorites, folders, tags and notes.
