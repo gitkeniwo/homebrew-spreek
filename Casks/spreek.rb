@@ -1,6 +1,6 @@
 cask "spreek" do
-  version "0.1.3"
-  sha256 "a3d39ca442aeabd415a44da143178fb8c2e7db9209300b9d3895f5955fde17b0"
+  version "0.2.0"
+  sha256 "620814bafac4ee85e2a68a80fd7160d4769a122264004005f0982068b2f192d9"
 
   url "https://github.com/gitkeniwo/homebrew-spreek/releases/download/v#{version}/Spreek-#{version}.dmg"
   name "Spreek"
