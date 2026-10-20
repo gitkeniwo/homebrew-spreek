@@ -1,4 +1,6 @@
-<img width="256" height="256" alt="spreek-snavel-left-arcs-blauw" src="https://github.com/user-attachments/assets/5c46b53b-13d7-423f-88c2-ac8ccaaaa0db" />
+<p align="center">
+  <img src="icon.png" width="256" alt="Spreek app icon">
+</p>
 
 # Spreek
 
